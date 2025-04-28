@@ -55,7 +55,9 @@ The main aim of this project was to implement both simple and multiple linear re
 
 - **Intercept:** 260032.36
 - **Top Features Impacting Price:**
-
+  - area
+  - bathrooms
+  - total_rooms
 ---
 
 ## 🔎 Key Learnings and Interpretation
